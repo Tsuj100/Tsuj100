@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Tsuj100</h1>
 
 <!--
 **Tsuj100/Tsuj100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
