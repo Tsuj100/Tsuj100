@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Tsuj100</h1>
+# Hi 👋, I'm Tsuj100
 <!-- <h1 align="center">Hi 👋, I'm Tsuj100</h1> -->
 
 <!--
