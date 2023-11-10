@@ -1,1 +1,0 @@
-<img src="./assets/metalslug.gif" height="150px"/>
